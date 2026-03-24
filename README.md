@@ -19,6 +19,8 @@ I build websites and web apps for clients who need clean, functional, and modern
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-E42527?style=for-the-badge&logo=zoho&logoColor=white)
 
 ---
 
