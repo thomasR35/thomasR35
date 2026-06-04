@@ -29,7 +29,7 @@ I build websites and web apps for clients who need clean, functional, and modern
 
 | Project | What it does | Stack | Status |
 | --- | --- | --- | --- |
-| **enbô** | Editorial blog platform with newsletter, admin dashboard & subscriber management | React · Node.js · PostgreSQL · TanStack | In progress |
+| **enbô** | Editorial blog platform with newsletter, admin dashboard & subscriber management | React · Node.js · PostgreSQL · TanStack | [Live ↗](https://blog.enbo.fr/) |
 | **Marcelle & Maurice Shop** | Custom product e-commerce — mugs, t-shirts, pins — with live preview, cart & Stripe checkout | React · Node.js · Stripe | [Live ↗](https://thomasr35.github.io/MetM-Front/#/) |
 | **AS Dynamo** | Web presence for a local sports association, with member area & activity calendar | Vite · React · TypeScript · PHP 8.2 MVC · SCSS | [Repo ↗](https://github.com/thomasR35/asso_sport) |
 | **La Maison des Embruns** | Showcase site for a holiday cottage rental with parallax effects | React · SCSS | [Repo ↗](https://github.com/thomasR35/Gite_Fictif) |
